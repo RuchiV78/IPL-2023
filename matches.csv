@@ -1,0 +1,11 @@
+season,team1,team2,date,match_number,venue,city,toss_winner,toss_decision,player_of_match,umpire1,umpire2,reserve_umpire,match_referee,winner,winner_runs,winner_wickets,match_type
+2023,Chennai Super Kings,Gujarat Titans,2023/03/31,1,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,field,Rashid Khan,Nitin Menon,HAS Khalid,A Bengeri,J Srinath,Gujarat Titans,,5,Group
+2023,Punjab Kings,Kolkata Knight Riders,2023/04/01,2,Punjab Cricket Association IS Bindra Stadium,Chandigarh,Kolkata Knight Riders,field,Arshdeep Singh,BNJ Oxenford,YC Barde,PM Joshi,M Nayyar,Punjab Kings,7,,Group
+2023,Lucknow Super Giants,Delhi Capitals,2023/04/01,3,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,Delhi Capitals,field,MA Wood,AK Chaudhary,NA Patwardhan,M Kuppuraj,DS Manohar,Lucknow Super Giants,50,,Group
+2023,Rajasthan Royals,Sunrisers Hyderabad,2023/04/02,4,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,field,JC Buttler,KN Ananthapadmanabhan,R Pandit,Abhijit Bhattacharya,V Narayan Kutty,Rajasthan Royals,72,,Group
+2023,Mumbai Indians,Royal Challengers Bangalore,2023/04/02,5,M Chinnaswamy Stadium,Bengaluru,Royal Challengers Bangalore,field,F du Plessis,Nitin Menon,Tapan Sharma,A Bengeri,J Srinath,Royal Challengers Bangalore,,8,Group
+2023,Chennai Super Kings,Lucknow Super Giants,2023/04/03,6,MA Chidambaram Stadium,Chennai,Lucknow Super Giants,field,MM Ali,A Totre,BNJ Oxenford,PM Joshi,M Nayyar,Chennai Super Kings,12,,Group
+2023,Delhi Capitals,Gujarat Titans,2023/04/04,7,Arun Jaitley Stadium,Delhi,Gujarat Titans,field,B Sai Sudharsan,A Nand Kishore,GR Sadashiv Iyer,M Kuppuraj,DS Manohar,Gujarat Titans,,6,Group
+2023,Punjab Kings,Rajasthan Royals,2023/04/05,8,Barsapara Cricket Stadium,Guwahati,Rajasthan Royals,field,NT Ellis,KN Ananthapadmanabhan,MV Saidharshan Kumar,Abhijit Bhattacharya,V Narayan Kutty,Punjab Kings,5,,Group
+2023,Kolkata Knight Riders,Royal Challengers Bangalore,2023/04/06,9,Eden Gardens,Kolkata,Royal Challengers Bangalore,field,SN Thakur,Vinod Seshan,VK Sharma,A Bengeri,Shakti Singh,Kolkata Knight Riders,81,,Group
+2023,Sunrisers Hyderabad,Lucknow Super Giants,2023/04/07,10,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,Sunrisers Hyderabad,bat,KH Pandya,J Madanagopal,YC Barde,PM Joshi,M Nayyar,Lucknow Super Giants,,5,Group
